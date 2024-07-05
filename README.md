@@ -25,3 +25,8 @@ Tener instalado VSCODE como editor de código
     5.5. Ejecución de Cypress en el terminal de VSCODE
 
        npx cypress run
+Clona el repositorio
+
+```sh
+git https://github.com/XERF99/Cypress-DemoQA-E2E.git
+cd Cypress-DemoQA-E2E
