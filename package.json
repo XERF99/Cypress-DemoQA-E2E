@@ -1,0 +1,21 @@
+{
+  "name": "cypress-demoqa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "cy:open": "cypress open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.12.0",
+    "cypress-cucumber-preprocessor": "^4.3.1"
+  },
+  "cypress-cucumber-preprocessor": {
+  "nonGlobalStepDefinitions": false, 
+  "stepDefinitions": "cypress/integration/step-definitions"
+}
+}
