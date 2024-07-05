@@ -1,17 +1,17 @@
-Cypress E2E Readme
+## Cypress E2E Readme
 
-Pre-requesitos
+## Pre-requesitos
 
 Tener instalado VSCODE como editor de código
 
-Instalación de dependicias
+## Instalación de dependencias
 
 1. Descomprimir el archivo .zip enviado
 2. Abrir la carpeta que se generó como resultado de descomprimir el archivo en VSCODE
 3. Abrir la terminal de VSCODE y ejecutar el siguiente comando:
     3.1. "npm install" --> este comando instalará todas las dependicias de node necesarias
 
-Ejcecución del Proyecto
+## Ejecución del Proyecto
 
 4. Para ejecutar el proyecto es necesario aplicar colocar en el terminal de VSCODE lo siguiente
     5.1. Ejecución de Cypress en una interfaz gráfica
